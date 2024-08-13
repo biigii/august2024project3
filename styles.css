@@ -1,20 +1,19 @@
 body {
-  background-color: lightgray;
+  background-color: lightgreen;
 }
 
-h1 {
-    background-color: red;
-    display: inline;
-}
+
+/* .wrapper {
+    background-color: yellow;
+    font-size: 30px;
+    color: orange;
+} */
 
 p {
-    background-color: orange;
-    /* display: block; */
-    display: inline;
+    background-color: yellow;
 }
 
-a {
-    background-color: orange;
-    /* display: inline; this is default display type*/
-    display: block;
+.important {
+    background-color: red;
+    color: white
 }
