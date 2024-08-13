@@ -1,19 +1,17 @@
-body {
-  background-color: lightgreen;
-}
-
-
-/* .wrapper {
-    background-color: yellow;
-    font-size: 30px;
-    color: orange;
-} */
-
-p {
+.block-block {
     background-color: yellow;
 }
 
-.important {
+/* inline element wrapping other inline elements */
+.inline-inline {
+    background-color: lightgreen;
+}
+
+.block-inline {
     background-color: red;
-    color: white
+}
+
+.inline-block {
+    /* display: block; */
+    background-color: lightblue;
 }
